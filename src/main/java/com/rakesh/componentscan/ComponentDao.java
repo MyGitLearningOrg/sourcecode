@@ -17,5 +17,6 @@ public class ComponentDao {
 		this.jdbcConnection = jdbcConnection;
 	}
 //Comment
+//New comment
 	
 }
